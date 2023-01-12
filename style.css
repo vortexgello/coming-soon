@@ -19,7 +19,7 @@ body {
 
 .container {
     color: #ffffff;
-    text-transform: uppercase;
+    text-transform: lowercase;
     text-align: center;
 }
 
