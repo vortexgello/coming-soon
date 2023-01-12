@@ -15,11 +15,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #dddddd;
+    background-color: #ffffff;
 }
 
 .container {
-    color: #ffffff;
+    color: #a5a5a5;
     text-transform: lowercase;
     text-align: center;
 }
@@ -40,9 +40,9 @@ body {
     display: inline-block;
     width: 50px;
     height: 50px;
-    background-color: #ffffffb2;
+    background-color: #8d8d8db2;
     line-height: 50px;
-    color: #ffffff;
+    color: #252525;
     font-size: 26px;
     border-radius: 50%;
     margin: 0 10px;
@@ -51,7 +51,7 @@ body {
 
 .sm a:hover {
     transform: scale(1.1);
-    background-color: #222222;
+    background-color: #b6b6b6;
 }
 img {
     height: auto;
