@@ -1,7 +1,12 @@
-*{
+*
+h1 { font-family: ibm-plex-mono,sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 80px;
+    margin-bottom: 60px;} 
+{
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -28,10 +33,7 @@ body {
     opacity: .2;
 }
 
-h1 {
-    font-size: 80px;
-    margin-bottom: 60px;
-}
+
 
 .sm a {
     display: inline-block;
