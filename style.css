@@ -2,7 +2,8 @@
 h1 { font-family: ibm-plex-mono,sans-serif;
     font-weight: 100;
     font-style: normal;
-    font-size: 80px;
+    font-size: 60;
+    font-stretch: auto;
     margin-bottom: 60px;} 
 {
     margin: 0;
@@ -55,5 +56,9 @@ body {
 img {
     height: auto;
     width:30%;
+ }
+ img2 {
+    height: auto;
+    width:auto;
  }
  
